@@ -3,6 +3,7 @@ name = "hough-transform"
 version = "1.0.0"
 description = "From-scratch Hough Transform for detecting lines and circles in images."
 readme = "README.md"
+license = "MIT"
 authors = [{ name = "Luan Nunes Utimura", email = "lnutimura@hotmail.com.br" }]
 requires-python = ">=3.10"
 dependencies = [

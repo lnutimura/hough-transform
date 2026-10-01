@@ -95,3 +95,7 @@ Computer Science (PPGCC) in 2018. It was revamped in 2026. The revamp fixed vote
 overflowed at 255 and a Sobel step that discarded negative gradients. The circle detector now
 estimates each circle's radius instead of assuming a fixed one. The voting is now vectorized
 with NumPy, which takes it from tens of seconds to about a second.
+
+## License
+
+[MIT](LICENSE)
